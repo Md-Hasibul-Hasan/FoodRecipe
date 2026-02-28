@@ -3,6 +3,8 @@
 MealExplorer is a modern single-page recipe browsing application built with **React** and **Tailwind CSS**.  
 It fetches live data from **TheMealDB API** and allows users to explore global cuisines using filtering, search, and pagination.
 
+Visit: https://food-recipe-topaz-six.vercel.app/
+
 ---
 
 ## 🚀 Features
